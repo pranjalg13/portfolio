@@ -431,6 +431,57 @@ h6 {
     height: 30px;width: 30px;
 }
 
+.experience-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.experience {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.exp-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 5px;
+}
+
+.exp-header h4 {
+    margin: 0;
+    color: var(--mainText);
+}
+
+.exp-company {
+    font-size: 16px;
+    font-weight: bold;
+    color: #17a2b8;
+}
+
+.exp-date {
+    font-size: 14px;
+    color: var(--secondaryText);
+    display: block;
+    margin-bottom: 10px;
+}
+
+.exp-details {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.exp-details li {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+.exp-skills {
+    font-size: 14px;
+}
+
 @media screen and (max-width: 1200px) {
     .main-container {
         width: 95%;
@@ -438,6 +489,13 @@ h6 {
 }
 
 @media screen and (max-width: 800px) {
+    .exp-header {
+        flex-direction: column;
+    }
+    .exp-company {
+        margin-top: 5px;
+    }
+
     .intro-wrapper {
         grid-template-columns: 1fr;
         grid-template-areas:
