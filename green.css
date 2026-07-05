@@ -1,11 +1,11 @@
 :root {
-    --mainColor: #606b56;
+    --mainColor: #4c5543;
     --secondaryColor: #515a48;
 
-    --borderColor: #161914;
+    --borderColor: #3a4234;
 
     --mainText: #fff;
-    --secondaryText: #eeeeee;
+    --secondaryText: #e4e8dc;
 
     --themeDotBorder: #fff;
 
@@ -13,4 +13,11 @@
     --previewShadow: #2a2f25;
 
     --buttonColor: #669966;
+
+    /* extended palette */
+    --accent: #a3c585;
+    --accentSoft: rgba(163, 197, 133, 0.16);
+    --cardBg: #4a5340;
+    --shadow: rgba(0, 0, 0, 0.35);
+    --shadowStrong: rgba(0, 0, 0, 0.55);
 }

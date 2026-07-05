@@ -2,10 +2,10 @@
     --mainColor: #15202b;
     --secondaryColor: #192734;
 
-    --borderColor: #164d56;
+    --borderColor: #22384a;
 
     --mainText: #fff;
-    --secondaryText: #eeeeee;
+    --secondaryText: #c8d2dc;
 
     --themeDotBorder: #fff;
 
@@ -13,4 +13,11 @@
     --previewShadow: #111921;
 
     --buttonColor: #17a2b8;
+
+    /* extended palette */
+    --accent: #38bdf8;
+    --accentSoft: rgba(56, 189, 248, 0.14);
+    --cardBg: #1c2b3a;
+    --shadow: rgba(0, 0, 0, 0.35);
+    --shadowStrong: rgba(0, 0, 0, 0.55);
 }
