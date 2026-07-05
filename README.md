@@ -1,6 +1,6 @@
 # Pranjal Goyal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranjal-goyal-dev) [![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat&logo=googlechrome)](https://pranjal.goyal) [![Live Demo](https://img.shields.io/badge/Portfolio-Live_Demo-success?style=flat)](https://pranjalg13.github.io/portfolio-pranjal-goyal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-17a2b8?style=flat&logo=googlechrome&logoColor=white)](https://pranjalg13.github.io/portfolio-pranjal-goyal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-goyal-dev) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/pranjalg13) [![Medium](https://img.shields.io/badge/Medium-Read-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@pranjalgoyal13)
 
 Senior Software Engineer specializing in Distributed Systems, Backend Development, and Platform Reliability. 4+ years across **Camunda, AngelOne, Groww, and SuprDaily (Swiggy)** — with **55+ merged PRs** in the public `camunda/camunda` monorepo.
 
@@ -31,9 +31,12 @@ Senior Software Engineer specializing in Distributed Systems, Backend Developmen
 ### 🚀 Projects
 - **Elektra (Open-Source):** ML-powered electricity outage prediction tool built with Django & GCP.
 
+### 🎓 Education
+- **B.Tech, Computer Engineering** — Pandit Deendayal Energy University (2018 – 2022) · CGPA 9.78 / 10
+
 ### 🏆 Achievements
-- National Creativity Aptitude Test - AIR 2 out of 10000+
-- 2nd place community prize in Alzheimer’s Disease Data Initiative (ADDI) Hackathon
+- National Creativity Aptitude Test — All India Rank 2 out of 10,000+ participants
+- 2nd place community prize (team lead) in Alzheimer’s Disease Data Initiative (ADDI) Hackathon
 - Top honors in the feedback category at the Atlassian Devpost Hackathon
 
 ---
